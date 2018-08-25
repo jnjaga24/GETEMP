@@ -1,0 +1,205 @@
+.bg {
+    background: transparent url("../images/image1.jpeg") repeat scroll 0 0;
+    
+    background-size: cover;
+}
+
+a
+{
+	color: yellow;
+}
+
+
+.ban {
+    color: inherit;
+    font-size: 36px;
+    height: 340px;
+    margin-top: 132px;
+}
+.c1
+{
+	color: red;
+}
+.
+.c3
+{
+	color:#d9f152;
+}
+
+.c4
+{
+	background-color:  #cddc39 ;
+	
+}
+.c5
+{
+	background-color: white;
+	text-align: center;
+	
+}
+.res
+{
+	height: 150px;
+	width: 250px;
+}
+
+.res1 {
+    padding-left: 92px;
+    padding-top: 0;
+}
+.icc {
+    border: 2px solid green;
+    border-radius: 16px;
+    color: red;
+    float: right;
+    padding: 5px;
+
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    display: block;
+    float: left;
+    height: auto;
+    margin-left: -19px;
+    max-width: 100%;
+    
+}
+.c6
+{
+	background-color: orange;
+}
+
+.ca {
+    background-color: white;
+    margin-top: 8px;
+    text-align: center;
+}
+
+.cs{
+	text-align: center;
+}
+.res2 {
+    height: 146px;
+    width: 220px;
+}
+
+.bs
+{
+	border-radius: 13px;
+}
+
+.sa
+{
+	cursor: pointer;
+}
+
+.am
+{
+	
+	background-color: orange;
+	
+}
+
+.bod1 {
+    background-color: white;
+    border-radius: 27px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.r1
+{
+	background-color: aqua;
+	padding:20px;
+}
+
+
+.ty
+{
+	
+	background-color: violet;
+}
+.rr
+{
+	color: green;
+
+}
+.mo
+{
+	
+}
+.ica 
+{
+    padding: 45px 16px 0;
+    font-size: 36px;
+    color: blue;
+
+}
+
+
+@media only screen and (min-width: 760px) and (max-width: 1200px) {
+    body {
+      overflow-x: hidden;
+    }
+}
+.content {
+    background-color: cyan;
+    color: black;
+    opacity: 0.86;
+    width: 221px;
+}
+.content:hover{
+    background-color: #ea80fc;
+    cursor: pointer;
+}
+.res3 {
+    height: 120px;
+    padding: 2px;
+    width: 140px;
+}
+.res4 {
+    height: 117px;
+    margin-top: 38px;
+    padding: 19px;
+    width: 100px;
+}
+i
+{
+    cursor: pointer;
+}
+@media only screen and (min-width: 700px) and (max-width: 991px) 
+{
+    .res4 {
+    height: 119px;
+    margin-top: 38px;
+    padding: 19px;
+    width: 47px;
+}
+.res4 {
+    height: 119px;
+    margin-top: 38px;
+    padding: 19px;
+    width: 47px;
+}
+    }
+
+@media only screen and (min-width: 754px) and (max-width: 1100px) 
+{
+    .ica
+    {
+
+    font-size: 36px;
+    padding: 45px 16px 0;
+    width: 400px;
+    color: blue;
+        
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 475px) 
+{
+   .ban {
+    line-height: 39px;
+    margin-top: 20px;
+}
+
+
